@@ -1,0 +1,6 @@
+{
+  "name": "Polymarket Clone",
+  "description": "A prediction market clone using virtual credits. Buy and sell YES/NO shares on politics, pop culture, sports, science and crypto, complete with an admin portal to create and resolve markets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
